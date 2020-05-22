@@ -25,9 +25,9 @@ import 'package:watson_assistant_v2/watson_assistant_v2.dart';
    WatsonAssistantV2Credential credential = WatsonAssistantV2Credential(
      version: '2020-05-17',
      username: 'apikey',
-     apikey: 'A4IBnYJ6p56BQOM6TG0Ljt_kfQvyaOD0LupiNABgLvFz',
-     assistantID: 'fe80c7cb-88b6-4676-9588-3f0673c1131c',
-     url: 'https://api.eu-gb.assistant.watson.cloud.ibm.com/instances/9e524fe1-a20c-48b4-941e-a0af1c088ab1/v2',
+     apikey: '********************************************',//api key
+     assistantID: '*************************************',//assistant id
+     url: 'https://www.this is dummy url for safety purpose.com',//assistant url with a /v2 read the readme for any clarifications.
    );
  
    WatsonAssistantApiV2 watsonAssistant;
