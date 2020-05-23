@@ -7,4 +7,6 @@ ONLY PERSONEL DETAILS SUCH AS API KEY/GOOGLE-SERVICE.JSON FILES AREN'T UPLOADED.
 contact: rsudharshan912@gmail.com for any queries on such information carrying files that aren't uploaded. 
 
 
+DETAILED VIDEO APP DESCRIPTION WORKING:https://youtu.be/zj2Xzcwk5qw 
+
 
